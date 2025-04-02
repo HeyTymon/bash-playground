@@ -1,0 +1,12 @@
+booleanPrinting.sh
+differentComments.sh
+differentVariables.sh
+doesFileExisit.sh
+doNotUseIf.sh
+files
+forLoopCommands.sh
+forLoopDirectory.sh
+functionExample.sh
+patternEcho1.sh
+patternEcho2.sh
+realNumbersOpearions.sh

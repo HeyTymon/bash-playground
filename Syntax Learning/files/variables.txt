@@ -1,0 +1,5 @@
+23
+I'am read only variable
+23
+VAR=var
+NUM=7
