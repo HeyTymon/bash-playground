@@ -3,3 +3,5 @@ PS1="\[$(tput setaf 2)\]\u\[$(tput setaf 3)\]@\[$(tput setaf 2)\]\w: \[$(tput sg
 alias rm="rm -i"
 alisa ls="ls -l --color=auto"
 alias tree='tree -C .'
+
+#testing auto commit script
