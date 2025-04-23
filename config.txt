@@ -3,5 +3,6 @@ PS1="\[$(tput setaf 2)\]\u\[$(tput setaf 3)\]@\[$(tput setaf 2)\]\w: \[$(tput sg
 alias rm="rm -i"
 alisa ls="ls -l --color=auto"
 alias tree='tree -C .'
+alias cls="clear"
 
-#testing auto commit script 23:20 new branch
+#testing auto commit script 23.04.2025_12:20 
